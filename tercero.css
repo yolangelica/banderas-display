@@ -1,0 +1,24 @@
+.yellow{
+	background-color: yellow;
+	padding-bottom: 3em;
+	padding-top: 0.5;
+	width:200px ;
+	height:100px;
+	display: inline-block;/*poner un objeto junto a otro*/
+}
+
+.grey{
+	background-color: grey;
+	padding-bottom: 3em;
+	padding-top: 0.5;
+	width:200px ;
+	height:100px;
+	display: inline-block;
+
+}
+h4,h5{
+	padding: 0.4em;
+}
+.white{
+	color: white;
+}
